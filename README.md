@@ -26,6 +26,8 @@ Skills Demonstrated
 
 Power BI, DAX, Data Analysis, Data Cleaning, Data Modeling, Dashboard Development, Data Visualization, Business Insights.
 
-Dashboard Preview
+## Dashboard Preview
+
+![Amazon Global Superstore Dashboard](DASHBOARD.png)
 
 Dashboard screenshot will be added here.
